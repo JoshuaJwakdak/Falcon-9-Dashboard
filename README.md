@@ -7,5 +7,6 @@ In this Project:
 5. And then we build an interactive map to analyze the launch  site proximity with Folium.
 6. We also used machine learning to determine if the first stage of Falcon 9 will land successfully. We split the data into training data and test data to find the best Hyperparameter for SVM, Classification Trees, and Logistic Regression. 
 7. Then found the method that performs best using test data.
+   
 ![image](https://github.com/JoshuaJwakdak/SpaceX-Falcon-9-Data-Science-Project/assets/58337640/b5ee0a75-c4c8-4cd0-84db-79004de9a27d)
 
